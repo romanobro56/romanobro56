@@ -6,7 +6,9 @@
 <br>🌱 I’m currently learning ...
 - nginx
 - node.js
-- html,css,js<br>
+- html,css,js
+- typescript
+- solid js <br>
 <br>📫 How to reach me ...
 - email: romanp2929@gmail.com
 
