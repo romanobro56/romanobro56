@@ -4,7 +4,6 @@
 - web development
 - building cool stuff<br>
 <br>🌱 I’m currently learning ...
-- nginx
 - node.js
 - html,css,js
 - typescript
