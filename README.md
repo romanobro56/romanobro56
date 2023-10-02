@@ -9,10 +9,16 @@ Solid js
 
 Solid Start
 
-D3.js
+React
+
+Next js
+
+MongoDB
 
 HTML, CSS, JS
 
 Typescript
 
 Java
+
+Python
